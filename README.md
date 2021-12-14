@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @amolsatsangi
-- 👀 I’m interested in Data Science and Web development
+- 👀 I’m interested in Data Science and machine learning 
+- 🐱‍👤 Currently I'm working in testing automation
 - 🌱 I’m currently learning Python 
 
 <!---
