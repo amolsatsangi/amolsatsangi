@@ -30,5 +30,5 @@ Feel free to explore my repositories to check out some of my work. I’m open to
 ### 📫 Get in Touch
 - [GitHub](https://github.com/amolsatsangi)
 - [LinkedIn](https://www.linkedin.com/in/amol-satsangi-30a968170/)
-- [Gmail](15amolsat@gmail.com)
+- [Email](mailto:15amolsat@gmail.com)
 
