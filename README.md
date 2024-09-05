@@ -14,7 +14,7 @@ I am keenly interested in developing efficient software solutions using **C++, C
   - Linux
 - **Version Control**: Git, GitHub, Bitbucket
 - **Agile Tools**: Jira, Confluence, Agile Framework
-- **Machine Learning**: Hands-on experience in various ML projects and currently exploring C++ for machine learning from a research perspective.
+- **Machine Learning**: Hands-on experience in various ML projects and currently exploring python for machine learning from a research perspective.
 
 ### 🌱 Currently Learning
 - Advanced C++ concepts
