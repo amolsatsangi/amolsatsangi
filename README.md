@@ -10,7 +10,7 @@ I am keenly interested in developing efficient software solutions using **C++, C
 - **Scripting Languages**: Tcl, Cshell
 - **Tools & Frameworks**: 
   - Static Timing Analysis
-  - ECO (Engineering Change Orders)
+  - Tempus ECO (Engineering Change Orders)
   - Linux
 - **Version Control**: Git, GitHub, Bitbucket
 - **Agile Tools**: Jira, Confluence, Agile Framework
@@ -19,6 +19,7 @@ I am keenly interested in developing efficient software solutions using **C++, C
 ### 🌱 Currently Learning
 - Advanced C++ concepts
 - Machine Learning (Research-focused)
+- ASIC Design flow
 
 Feel free to explore my repositories to check out some of my work. I’m open to collaboration and knowledge sharing, so don’t hesitate to reach out!
 
