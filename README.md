@@ -23,7 +23,10 @@ I am keenly interested in developing efficient software solutions using **C++, C
 Feel free to explore my repositories to check out some of my work. I’m open to collaboration and knowledge sharing, so don’t hesitate to reach out!
 
 ---
+### Current GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amolsatsangi)
 
 ### 📫 Get in Touch
 - [GitHub](https://github.com/amolsatsangi)
+- [LinkedIn](https://www.linkedin.com/in/amolsatsangi)
 
