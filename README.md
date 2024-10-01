@@ -24,7 +24,8 @@ I am keenly interested in developing efficient software solutions using **C++, C
 ---
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amolsatsangi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amolsatsangi&show_icons=true&theme=radical)
+
 
 ## 🌟 Most Used Languages
 
