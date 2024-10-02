@@ -24,15 +24,20 @@ I am keenly interested in developing efficient software solutions using **C++, C
 ---
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amolsatsangi&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amolsatsangi&show_icons=true&theme=default)
+
 
 
 ## 🌟 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amolsatsangi&layout=compact&theme=default)
 
+
+
 ### Current GitHub Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amolsatsangi)
+
 
 ### 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/amol-satsangi-30a968170/)
