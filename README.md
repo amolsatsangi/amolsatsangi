@@ -11,7 +11,6 @@ I have a strong foundation in **C, C++, and Python**, with expertise in **Data S
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=amolsatsangi&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=amolsatsangi&theme=light&hide_border=true" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolsatsangi&layout=compact&theme=light&hide_border=true" alt="Top Languages"/>
 </p>
 
