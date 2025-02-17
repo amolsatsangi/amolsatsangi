@@ -1,12 +1,36 @@
-### 👨‍💻 About Me
-I'm a **Product Engineer** at **Cadence Design Systems** with a specialization in **Computer Science** from **Dayalbagh Educational Institute**. Previously, I worked at **Keysight Technologies** as a **Software Engineer**.
+# 👋 Hi, I'm Amol Satsangi 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Product+Engineer+at+Cadence;EDA+Enthusiast;Static+Timing+Analysis+Expert)](https://git.io/typing-svg)
 
-I have a strong foundation in **C, C++, and Python**, with expertise in **Data Structures & Algorithms, Static Timing Analysis, ECO**, and scripting in **Tcl, Cshell, and Linux systems**. Passionate about developing efficient software solutions and continuously improving my skills.
+## 🚀 Professional Journey
+Currently crafting efficient solutions as a **Product Engineer** at **Cadence Design Systems**, specializing in Static Timing Analysis and ECO optimization. Previously, I contributed to innovation at **Keysight Technologies** as a Software Engineer. My academic foundation in Computer Science from **Dayalbagh Educational Institute** fuels my passion for technological excellence.
 
-### 🛠 Tech Stack
-- **Languages**: C, C++, Python
-- **Scripting**: Tcl, Cshell, Linux Shell
-- **Tools & Technologies**: Git, Linux, STA, ECO
+## 💡 Core Competencies
+<div align="center">
+
+```mermaid
+mindmap
+  root((Skills))
+    Software Development
+      C/C++
+      Python
+    EDA
+      Static Timing Analysis
+      ECO
+    Scripting
+      Tcl
+      Cshell
+      Linux Shell
+    Tools
+      Git
+      Linux
+```
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
 
 ### 📊 GitHub Stats
 <p align="left">
@@ -20,4 +44,3 @@ I have a strong foundation in **C, C++, and Python**, with expertise in **Data S
   <a href="https://www.hackerrank.com/15amolsat" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a>
   <a href="https://www.leetcode.com/amols_15" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
 </p>
-
