@@ -1,52 +1,101 @@
-# 👋 Hi, I'm Amol Satsangi 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Product+Engineer+at+Cadence;EDA+Enthusiast;Static+Timing+Analysis+Expert)](https://git.io/typing-svg)
+# Amol Satsangi
+### Product Engineer | Tempus ECO
 
-## 🚀 Professional Journey
-Currently crafting efficient solutions as a **Product Engineer** at **Cadence Design Systems**, specializing in Static Timing Analysis and ECO optimization. Previously, I contributed to innovation at **Keysight Technologies** as a Software Engineer. My academic foundation in Computer Science from **Dayalbagh Educational Institute** fuels my passion for technological excellence.
 
-## 💡 Core Competencies
+## 🛠️ Technical Arsenal
+
+### **Core Technologies**
+```text
+Languages    ████████████████████████████████████████ C/C++, Python, Tcl/Shell
+EDA Tools    ████████████████████████████████████████ STA, ECO, Digital Systems
+Systems      ████████████████████████████████████████ Linux, Git, Multithreading
+Testing      ████████████████████████████████████████ Unit Testing, Pytest, ASAN
+Debugging    ████████████████████████████████████████ GDB, Regression Analysis
+ML/Analytics ████████████████████████████████████████ Clustering, Regression Models
+```
+
 <div align="center">
+
+### **Technology Stack**
+
+<table>
+<tr>
+<td align="center" width="100px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px" height="50px" alt="C" />
+<br><sub><b>C</b></sub>
+</td>
+<td align="center" width="100px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50px" height="50px" alt="C++" />
+<br><sub><b>C++</b></sub>
+</td>
+<td align="center" width="100px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px" alt="Python" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="100px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50px" height="50px" alt="Linux" />
+<br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="100px">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50px" height="50px" alt="Git" />
+<br><sub><b>Git</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amolsatsangi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amolsatsangi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amolsatsangi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+## 🎯 Areas of Expertise
 
 ```mermaid
 mindmap
-  root((Skills))
-    Software
-      C/C++
-      Python
-      DSA
-    EDA
-      STA
-      ECO
-      Digital Systems
-    Testing
+  root((Expertise))
+    EDA Solutions
+      Static Timing Analysis
+      ECO Optimization
+      Digital Design
+      Performance Tuning
+    Software Engineering
+      Algorithm Design
+      System Architecture
+      Performance Analysis
+      Code Optimization
+    Quality Assurance
       Unit Testing
-      Regression
-      Pytest
-    Tools
-      Git/Linux
-      Tcl/Shell
+      Regression Analysis
+      Test Automation
+      Debug & Profiling
+    Data Science
+      Clustering Analysis
+      Regression Models
+      Statistical Methods
+      Performance Metrics
 ```
+---
 
-<p align="center">
-<!-- Programming Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
+## 🤝 Let's Connect
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amolsatsangi&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolsatsangi&layout=compact&theme=light&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
 
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/amol-satsangi-30a968170" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-  <a href="https://www.hackerrank.com/15amolsat" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a>
-  <a href="https://www.leetcode.com/amols_15" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amol-satsangi-30a968170)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/15amolsat)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/amols_15)
+
+</div>
+
+
