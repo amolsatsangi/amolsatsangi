@@ -4,14 +4,7 @@
 
 ## 🛠️ Technical Arsenal
 
-### **Core Technologies**
-```text
-Languages    ████████████████████████████████████████ C/C++, Python, Tcl/Shell
-EDA Tools    ████████████████████████████████████████ STA, ECO, Digital Systems
-Systems      ████████████████████████████████████████ Linux, Git, Multithreading
-Testing      ████████████████████████████████████████ Unit Testing, Pytest, ASAN
-Debugging    ████████████████████████████████████████ GDB, Regression Analysis
-ML/Analytics ████████████████████████████████████████ Clustering, Regression Models
+
 ```
 
 <div align="center">
