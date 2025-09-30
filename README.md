@@ -1,15 +1,13 @@
-# Amol Satsangi
-### Product Engineer | Tempus ECO
+# 👋 Hi, I'm Amol Satsangi  
+### 🚀 Product Engineer | Tempus ECO  
 
+---
 
-## 🛠️ Technical Arsenal
-
-
-```
+## 🛠️ Technical Arsenal  
 
 <div align="center">
 
-### **Technology Stack**
+### ⚡ Technology Stack  
 
 <table>
 <tr>
@@ -39,21 +37,22 @@
 </div>
 
 ---
-## 📊 GitHub Analytics
+
+## 📊 GitHub Analytics  
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amolsatsangi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amolsatsangi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amolsatsangi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amolsatsangi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amolsatsangi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amolsatsangi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)  
 
 </div>
 
 ---
 
-## 🎯 Areas of Expertise
+## 🎯 Areas of Expertise  
 
 ```mermaid
 mindmap
@@ -78,17 +77,6 @@ mindmap
       Regression Models
       Statistical Methods
       Performance Metrics
-```
----
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amol-satsangi-30a968170)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/15amolsat)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/amols_15)
-
-</div>
 
 
