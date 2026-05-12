@@ -3,7 +3,7 @@
 Product Engineer at Cadence, working on EDA tools — primarily Tempus ECO and Certus.
  
 I write mostly C++, C Shell, and Python. My day-to-day work involves validation, test automation, and digging into timing analysis workflows.
- 
+
 ---
 
 ## Tech Stack
